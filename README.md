@@ -1,7 +1,5 @@
 <h1 align="center">💻 Vinicius Barbieri</h1>
-<h3 align="center">🚀 Fullstack Developer | 🧠 Web3 & Blockchain | 🎯 Always learning</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinibarbieri" alt="vinibarbieri" /></a> </p>
+<h3 align="center">🚀 Fullstack Developer | 🧠 Web3 & Blockchain</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
