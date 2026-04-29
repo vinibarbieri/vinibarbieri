@@ -1,5 +1,5 @@
 <h1 align="center">💻 Vinicius Barbieri</h1>
-<h3 align="center">🚀 Fullstack Developer | MSCS Umass Boston</h3>
+<h3 align="center">🚀 Fullstack Developer | 📚 MSCS Umass Boston</h3>
 
 <h3 align="left">Connect with me:</h3>
 <table>
